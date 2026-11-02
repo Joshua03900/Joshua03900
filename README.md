@@ -1,5 +1,6 @@
 Hello, world!
-  This is @Joshua03900
-  Currently learning Python and C#
+This is my little spot on the internet
 
-  Have a nice day :)
+Have a nice day :)
+
+<img src="koi/koi.gif" width="256" alt="My koi">

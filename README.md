@@ -1,5 +1,5 @@
 Hello, world!
-This is my little spot on the internet
+This is my little spot on the interwebz
 
 Have a nice day :)
 
